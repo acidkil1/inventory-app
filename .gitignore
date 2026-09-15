@@ -1,0 +1,23 @@
+# Виртуальные окружения
+venv/
+.venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Папки сборки PyInstaller
+build/
+dist/
+*.manifest
+
+# Настройки IDE
+.idea/
+.vscode/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
