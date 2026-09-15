@@ -20,8 +20,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/acidkil1/inventory-management-system.git
-   cd inventory-management-system
+   git clone https://github.com/acidkil1/inventory-app.git
+   cd inventory-app
    ```
 
 2. Создайте и активируйте виртуальное окружение:
